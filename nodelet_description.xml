@@ -1,0 +1,15 @@
+<library path="lib/libmeasure_delay_nodelet">
+  <class name="measure_delay_nodelet/send_image"
+         type="measure_delay_nodelet::SendImage"
+         base_class_type="nodelet::Nodelet">
+    <description>
+    </description>
+  </class>
+
+  <class name="measure_delay_nodelet/measure_delay"
+         type="measure_delay_nodelet::MeasureDelay"
+         base_class_type="nodelet::Nodelet">
+    <description>
+    </description>
+  </class>
+</library>
